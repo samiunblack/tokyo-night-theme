@@ -1,0 +1,91 @@
+{
+  "version": "1.2.2",
+  "manifest_version": 2,
+  "name": "Themer Light",
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        128,
+        148,
+        180
+      ],
+      "frame": [
+        211,
+        215,
+        224
+      ],
+      "ntp_background": [
+        225,
+        226,
+        231
+      ],
+      "ntp_text": [
+        128,
+        148,
+        180
+      ],
+      "tab_background_text": [
+        128,
+        148,
+        180
+      ],
+      "tab_background_text_inactive": [
+        128,
+        148,
+        180
+      ],
+      "tab_background_text_incognito": [
+        128,
+        148,
+        180
+      ],
+      "tab_background_text_incognito_inactive": [
+        128,
+        148,
+        180
+      ],
+      "tab_text": [
+        128,
+        148,
+        180
+      ],
+      "toolbar": [
+        225,
+        226,
+        231
+      ],
+      "omnibox_text": [
+        128,
+        148,
+        180
+      ],
+      "omnibox_background": [
+        211,
+        215,
+        224
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.6120448179271708,
+        0.5,
+        0.5
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito": [
+        0.728174603174603,
+        1,
+        0.45
+      ],
+      "frame_incognito_inactive": [
+        0.728174603174603,
+        1,
+        0.45
+      ]
+    }
+  }
+}
